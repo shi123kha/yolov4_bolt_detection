@@ -1,0 +1,4 @@
+data/obj/2_0_3.jpeg
+data/obj/0_4_1.jpeg
+data/obj/2_6_3.jpeg
+data/obj/5_6_6.jpeg
